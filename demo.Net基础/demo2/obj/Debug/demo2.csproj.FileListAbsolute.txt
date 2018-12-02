@@ -1,0 +1,7 @@
+G:\develop\C#Projects\demo.Net基础\demo2\bin\Debug\demo2.exe.config
+G:\develop\C#Projects\demo.Net基础\demo2\bin\Debug\demo2.exe
+G:\develop\C#Projects\demo.Net基础\demo2\bin\Debug\demo2.pdb
+G:\develop\C#Projects\demo.Net基础\demo2\obj\Debug\demo2.csprojAssemblyReference.cache
+G:\develop\C#Projects\demo.Net基础\demo2\obj\Debug\demo2.csproj.CoreCompileInputs.cache
+G:\develop\C#Projects\demo.Net基础\demo2\obj\Debug\demo2.exe
+G:\develop\C#Projects\demo.Net基础\demo2\obj\Debug\demo2.pdb

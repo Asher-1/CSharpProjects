@@ -1,0 +1,7 @@
+G:\develop\C#Projects\demo.Net基础\helloword\bin\Debug\helloword.exe.config
+G:\develop\C#Projects\demo.Net基础\helloword\bin\Debug\helloword.exe
+G:\develop\C#Projects\demo.Net基础\helloword\bin\Debug\helloword.pdb
+G:\develop\C#Projects\demo.Net基础\helloword\obj\Debug\helloword.csprojAssemblyReference.cache
+G:\develop\C#Projects\demo.Net基础\helloword\obj\Debug\helloword.csproj.CoreCompileInputs.cache
+G:\develop\C#Projects\demo.Net基础\helloword\obj\Debug\helloword.exe
+G:\develop\C#Projects\demo.Net基础\helloword\obj\Debug\helloword.pdb

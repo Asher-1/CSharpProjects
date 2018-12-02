@@ -1,0 +1,6 @@
+G:\develop\C#Projects\骑士飞行棋\骑士飞行棋\bin\Debug\骑士飞行棋.exe.config
+G:\develop\C#Projects\骑士飞行棋\骑士飞行棋\bin\Debug\骑士飞行棋.exe
+G:\develop\C#Projects\骑士飞行棋\骑士飞行棋\bin\Debug\骑士飞行棋.pdb
+G:\develop\C#Projects\骑士飞行棋\骑士飞行棋\obj\Debug\骑士飞行棋.exe
+G:\develop\C#Projects\骑士飞行棋\骑士飞行棋\obj\Debug\骑士飞行棋.pdb
+G:\develop\C#Projects\骑士飞行棋\骑士飞行棋\obj\Debug\骑士飞行棋.csprojResolveAssemblyReference.cache

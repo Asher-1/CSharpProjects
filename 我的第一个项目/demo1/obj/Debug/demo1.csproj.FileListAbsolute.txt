@@ -1,0 +1,6 @@
+G:\develop\C#Projects\我的第一个项目\demo1\bin\Debug\demo1.exe.config
+G:\develop\C#Projects\我的第一个项目\demo1\bin\Debug\demo1.exe
+G:\develop\C#Projects\我的第一个项目\demo1\bin\Debug\demo1.pdb
+G:\develop\C#Projects\我的第一个项目\demo1\obj\Debug\demo1.csprojResolveAssemblyReference.cache
+G:\develop\C#Projects\我的第一个项目\demo1\obj\Debug\demo1.exe
+G:\develop\C#Projects\我的第一个项目\demo1\obj\Debug\demo1.pdb
